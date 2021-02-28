@@ -20,7 +20,7 @@ Usage in the CitiBike service fell dramatically in April 2020 when compared to p
 
 ![alt text](images/trips_by_year.PNG?raw=true)
 
-For Gen X overall usage was down but they did have an increase in usage during the summer months and October. For gen Z usage was up every month except for April in 2020 when compared to the previous years except for April this could be due to this generation entering the workforce. The rest of the generations all had less usage when compared to previous years.
+For Gen X overall usage was down but they did have an increase in usage during the summer months and October. For Gen Z usage was up every month except for April in 2020 when compared to the previous years this could be due to this generation entering the workforce. The rest of the generations all had less usage when compared to previous years.
 
 ![alt text](images/trips_gen_year.PNG?raw=true)
 
